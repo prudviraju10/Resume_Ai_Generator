@@ -1,0 +1,55 @@
+Prudvi Raju Borra
++91-9182604309 Linkedin Github borraprudviraju@gmail.com
+SKILLS
+• Python, SQL, NumPy, Pandas, Scikit-learn, TensorFlow, FastAPI, Data Analysis, Clustering, Recommender Systems, 
+Time Series Forecasting, Bagging & Boosting, DL, NLP, Transformers, Gen AI, Langgraph, AWS : EC2, ECS, ECR, Docker, MLOps
+EXPERIENCE
+Data Scientist Jul 2021 - Present
+Hitachi Digital Systems Hyderabad
+Worked on machine learning and generative AI solutions for business problems, and used python for tasks like PII data masking and
+automation of application servers admin tasks.
+Intelligent Troubleshooting System
+Developed an intelligent troubleshooting assistant for application server admins using LLMs and LangGraph to automate common
+diagnostic tasks like checking disk space, service status, and log files.
+Enabled faster and consistent issue resolution, reducing manual effort for support teams by automating routine investigation steps.
+Internal Profile Matching System
+Built a Resume-RAG system for internal talent matching using LangGraph, ChromaDB, and Azure OpenAI, enabling retrieval of top
+bench profiles based on incoming project requirements.
+Improved profile to requirement matching efficiency for the RMG team, enabling faster and more accurate talent identification.
+Churn Prediction
+Developed a telecom churn prediction model using Decision Trees, XGBoost, and LightGBM; achieved 94% recall with lgbm after
+EDA, feature engineering and hyperparameter tuning.
+Analyzed key factors behind customer churn using SHAP values, providing actionable and explainable insights to business teams.
+Reduced churn by 9%, segmenting customers with decile and lift charts to target high-risk segments and optimize retention strategies.
+PROJECTS
+Data Analysis & Business Insights
+https://github.com/prudviraju10/data_analysis/tree/main
+Performed detailed exploratory data analysis(EDA) on business case studies to derive actionable insights for decision-making.
+Applied statistical hypothesis testing (Z-test, T-test, ANOVA, chi-square) to validate assumptions about data.
+Cleaned and transformed datasets, handled outliers and missing data, and implemented standardization/ encoding techniques for
+preparing data for reporting and model building.
+Delivery Time Estimation
+https://drive.google.com/file/d/1qPcLUGU7scwIANvCzWlYe_OVRKaordRa/view?usp=sharing
+Estimated delivery times for a food delivery app, achieving a MAPE of 6%, enhancing service efficiency.
+Analyzed data to pinpoint peak order times, filling missing values and transforming features to effectively manage outliers.
+Developed a Sequential Keras model with Adam optimizer and ReLU activation, utilizing Optuna for hyperparameter tuning, batch
+normalization and regularization for generalization.
+AI-Powered Chatbot
+https://aillmdemoapp.streamlit.app/
+Built a three-page AI app using Streamlit, integrating Llama 3.3 70b model(groq api), LangChain/Langgraph, and ChromaDB.
+Designed chatbots with generic Q&A, RAG capabilities for document-based queries and AI agent with tools.
+Utilized Google embeddings for semantic search and enhanced response accuracy. Streamlined document upload and indexing via
+ChromaDB, enabling efficient vector search. Used wikipedia and search tools to give llm with more knowledge sources.
+Movie Recommender System
+https://github.com/prudviraju10/recommender_system
+Developed a personalized movie recommender system using user-based and item-based collaborative filtering with Pearson
+Correlation and Cosine Similarity to enhance user engagement and content discovery.
+Applied matrix factorization to handle sparse user-item matrices, improving prediction accuracy and recommendation relevance.
+ACHIEVEMENTS
+AI Agents (HuggingFace), python & sql (HackerRank), geospatial analysis (kaggle)
+EDUCATION
+Scaler 2024
+Specialized in Data Science & Machine Learning
+Gayatri Vidya Parishad College of Engineering 2021
+BE/B.Tech/BS in Information Technology 7.96 CGPA
+
