@@ -49,8 +49,10 @@ async def upload_resume(file: UploadFile = File(...)):
         print(f"Error processing file: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
+from typing import Union, Dict, List, Any
+
 class EditRequest(BaseModel):
-    current_content: str
+    current_content: Union[str, Dict, List[Any]]
     instruction: str
     section_name: str
 
