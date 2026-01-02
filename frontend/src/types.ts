@@ -67,5 +67,5 @@ export interface EditRequest {
 }
 
 export interface EditResponse {
-    content: string;
+    content: string | any;
 }
